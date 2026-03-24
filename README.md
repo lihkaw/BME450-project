@@ -9,7 +9,7 @@ Infants typically cannot communicate with spoken language until 12 months of age
 
 The Baby Cry Sense Dataset by Menna Ahmed (https://www.kaggle.com/datasets/mennaahmed23/baby-cry-sense-dataset).
 
-This dataset contains audio files of infant cries categorized by 8 different reasons for crying. These reasons include belly pain, burping, being cold or hot, general discomfort, hunger, loneliness, fear, and tiredness. We will either split this dataset in half to serve as training and testing data, or find an additional dataset with uncategorized baby crying audio files for testing data purposes.
+This dataset contains audio files of infant cries categorized by 8 different reasons for crying. These reasons include belly pain, burping, being cold or hot, general discomfort, hunger, loneliness, fear, and tiredness. We will either split this dataset in half to serve as training and testing data, or find an additional dataset with baby crying audio files for testing data purposes.
 
 In the process of developing our model that will analyze this data, we will be modifying 4-5 of the architecture’s (chosen architecture TBA) parameters and will test 1-2 (number of architectures TBA) architectures. Accordingly, we will report the train and test results with every change to see how these changes affect how accurately the model can classify baby cries by emotion and/or physiological state.
 
