@@ -2,7 +2,7 @@
 “My super-cool project”
 
 ## Team members
-NameA (GitHubUserA), NameB (GitHubUserB)
+Akhil Pinnapareddy (lihkaw), Julie Phung (jphung124)
 
 ## Project decription
 Max ½ page. Include some information on:
