@@ -1,5 +1,5 @@
 # Title
-“My super-cool project”
+Predicting Infant Emotion based on Crying Audio
 
 ## Team members
 Akhil Pinnapareddy (lihkaw), Julie Phung (jphung124)
