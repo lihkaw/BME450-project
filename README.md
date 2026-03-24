@@ -1,10 +1,10 @@
 # Title
 Predicting Infant Emotion based on Crying Audio
 
-## Team members
+## Team Members
 Akhil Pinnapareddy (lihkaw), Julie Phung (jphung124)
 
-## Project decription
+## Project Description
 Infants typically cannot communicate with spoken language until 12 months of age. Our project, “Predicting Infant Emotion based on Crying Audio” involves analyzing different aspects of baby crying audio to determine various (adverse) emotions and/or physiological states of infants. By better understanding the reason behind an infant’s cry, parents and/or caregivers can improve in tending to their infant. For this project, we are using the following dataset from Kaggle:
 
 The Baby Cry Sense Dataset by Menna Ahmed (https://www.kaggle.com/datasets/mennaahmed23/baby-cry-sense-dataset).
