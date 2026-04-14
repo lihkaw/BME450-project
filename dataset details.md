@@ -1,6 +1,6 @@
 ## Details on dataset used to train / test model:
 
--Excluded lonely and scared emotions from the main Kaggle dataset as each of them have low # of audio files (<~30)
+-Excluded "lonely" and "scared" emotions from the main Kaggle dataset as each of them have low # of audio files (<~30)
 
 -Only analyzing the first 124 files from each dataset (as this is the lowest number of files in out of the different emotions, minus the previously excluded emotions)
 
