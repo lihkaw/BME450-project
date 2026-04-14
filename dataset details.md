@@ -6,7 +6,7 @@
 
 -First 93 audio files from each category (75%) were used for training purposes, and the other 31 files in each category (25%) will be used to test the model
 
--This curated dataset contains mostly .WAV files, but also has .3GP and .OGG files, but this should not be an issue as the PyTorch will allow the model to extract and analyze the waveform from any audio file
+-This curated dataset contains mostly .WAV files, but also has .3GP and .OGG files, but this should not be an issue as PyTorch libraries will allow the model to extract and analyze the waveform from any audio file
 
 -The dataset will be accessed on Google Drive to be used through the Google Colab python IDE; a copy of the dataset is provided here: 
 
