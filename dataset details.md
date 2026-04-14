@@ -1,4 +1,4 @@
-## Details on dataset used to train / test model:
+## Details on dataset (normalization) used to train / test model:
 
 -Excluded "lonely" and "scared" emotions from the main Kaggle dataset as each of them have low # of audio files (<~30)
 
