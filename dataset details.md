@@ -2,7 +2,7 @@
 
 -Excluded "lonely" and "scared" emotions from the main Kaggle dataset as each of them have low # of audio files (<~30)
 
--Only analyzing the first 124 files from each dataset (as this is the lowest number of files in out of the different emotions, minus the previously excluded emotions)
+-Only analyzing the first 124 files from each dataset (as this is the lowest number of files in a type of emotion, minus the previously excluded emotions)
 
 -First 93 audio files from each category (75%) were used for training purposes, and the other 31 files in each category (25%) will be used to test the model
 
