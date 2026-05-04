@@ -15,4 +15,4 @@ In the process of developing our model that will analyze this data, we will be m
 
 Stay tuned (no-pun intended)!
 
-# EDIT (5/3/2026): Please reference the individual prroject reports for an updated overview and summary of the project. ALSO, the BME_450_Project File is deprecated. Please refer to the other IPYNB Files.
+# EDIT (5/3/2026): Please reference the individual project reports for an updated overview and summary of the project. ALSO, the BME_450_Project File is deprecated. Please refer to the other IPYNB Files.
